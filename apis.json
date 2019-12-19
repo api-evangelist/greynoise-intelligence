@@ -1,0 +1,54 @@
+{
+    "name": "GreyNoise Intelligence",
+    "description": "<p>GreyNoise Intelligence is a cyber security company that collects, labels, and analyzes Internet-wide scan and attack data.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28751-greynoise-io.jpg",
+    "tags": [
+        "have api",
+        "scanning",
+        "security",
+        "threats"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/greynoise-intelligence\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GreyNoise Intelligence",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28751-greynoise-io.jpg",
+            "humanURL": "https:\/\/greynoise.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/greynoise-intelligence-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/greynoise.io\/blog\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/github.com\/GreyNoise-Intelligence\/api.greynoise.io"
+        },
+        {
+            "type": "Email",
+            "url": "hello@greynoise.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GreyNoiseIO"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/greynoise.io"
+        }
+    ]
+}
